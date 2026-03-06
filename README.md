@@ -1,4 +1,4 @@
-# Xue-Yu Scramble - Projets Swift
+# Scramble - Projets Swift
 
 Workspace contenant un applications Swift natives pour macOS: un jeu d'arcade.
 
